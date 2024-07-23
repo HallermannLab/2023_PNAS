@@ -1,8 +1,8 @@
 # 2023_PNAS
 The code was used in the following publication:
 
-Fully-primed slowly-recovering vesicles mediate presynaptic LTP at neocortical neurons.
-Weichard I, Taschenberger H, Gsell F, Bornschein G, Ritzau-Jost A, Schmidt H, Kittel RJ, Eilers J, Neher E, Hallermann S, Nerlich J.
+Fully-primed slowly-recovering vesicles mediate presynaptic LTP at neocortical neurons.  
+Weichard I, Taschenberger H, Gsell F, Bornschein G, Ritzau-Jost A, Schmidt H, Kittel RJ, Eilers J, Neher E, Hallermann S, Nerlich J.  
 PNAS 2023 [doi: 10.1073/pnas.2305460120](https://doi.org/10.1073/pnas.2305460120)
 
 A parallel and a sequential model were used. To execute the code you need to compile the C++ files in the folders /xcode/twopool and run main.cpp in the corresponding folders (parallel and sequential). You have to change the import and export folder names in line 10 and 11 of main.cpp to the appropriate paths on your computer. The xcode project file is also provided (twopool.xcodeproj). The code was run with the xcode application (version 15.4) on macOS 14.5.
