@@ -1,7 +1,7 @@
 # 2023_PNAS
 The code was used in the following publication:
 
-Fully-primed slowly-recovering vesicles mediate presynaptic LTP at neocortical neurons
+Fully-primed slowly-recovering vesicles mediate presynaptic LTP at neocortical neurons.
 Weichard I, Taschenberger H, Gsell F, Bornschein G, Ritzau-Jost A, Schmidt H, Kittel RJ, Eilers J, Neher E, Hallermann S, Nerlich J.
 PNAS 2023 [doi: 10.1073/pnas.2305460120](https://doi.org/10.1073/pnas.2305460120)
 
